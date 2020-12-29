@@ -14,7 +14,7 @@
 
 ## Start Development ##
 
-  1. Using your git ui or terminal clone the sandbox repository: `git clone git@bitbucket.org:vhstech/sandbox.git`
+  1. Using your git ui or terminal clone the sandbox repository: `git clone git@github.com:bayfielddesign/sandbox.git`
   2. Create a feature branch from master and label it with your last name: `feature/name`
   3. Navigate to ./app `cd app`
   4. Install packages `npm install`
