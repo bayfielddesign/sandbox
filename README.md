@@ -14,7 +14,7 @@
 
 ## Start Development ##
 
-  1. Using your git ui or terminal clone the sandbox repository: `git clone git@bitbucket.org:vhstech/sandbox.git`
+  1. Using your git ui or terminal clone the sandbox repository: `git clone https://github.com/bayfielddesign/sandbox`
   2. Create a feature branch from master and label it with your last name: `feature/name`
   3. Navigate to ./app `cd app`
   4. Install packages `npm install`
@@ -36,7 +36,7 @@ Using vue's data-driven approach to building user interfaces you will construct 
   7. The form must maintain an accessibility standard of AA as laid out in the Web Content Accessibility Guidelines (WCAG).
   8. After a successful registration the user should receive a message confirming success and a receipt of the information they provided
 
-Other than the requirements above, get creative and structure/build your project and any way you'd like.
+Other than the requirements above, get creative and structure/build your project any way you'd like.
 
 ## Submitting ##
 
