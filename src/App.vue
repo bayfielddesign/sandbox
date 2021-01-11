@@ -58,4 +58,9 @@ export default {
   display: flex;
   justify-content: center;
 }
+
+.error-message{
+  color: red;
+  font-size: smaller;
+}
 </style>
